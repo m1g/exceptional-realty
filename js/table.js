@@ -1,5 +1,6 @@
 $(function() {
 
+<<<<<<< HEAD
   ////////// Market Report Table //////////
 
   function Property(street, city, state, price, posted) {
